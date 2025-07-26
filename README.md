@@ -185,6 +185,9 @@ https://www.mobilehackinglab.com/course/android-frida-labs
 -> 22 Cursos de Offensive Security - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/refined?terms_info=domains%7Coffensive-security&resultsView=grid&view=course&license=1
 
+-> Map with free Pentest Mobile Android courses (Material em inglês)  
+https://app.hextree.io/map/android
+
 #### Mobile Malware
 -> Offensive Android Programming - Mobile Hacking Lab (Material em inglês)  
 https://www.mobilehackinglab.com/course/offensive-android-programming
