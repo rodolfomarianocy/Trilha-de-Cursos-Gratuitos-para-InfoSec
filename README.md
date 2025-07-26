@@ -180,7 +180,7 @@ https://www.mobilehackinglab.com/course/free-android-application-security-course
 https://www.mobilehackinglab.com/course/free-ios-application-security-course
 
 -> Android Frida Labs - Mobile Hacking Lab (Material em inglês)  
-http://mobilehackinglab.com/course/android-frida-labs
+https://www.mobilehackinglab.com/course/android-frida-labs
 
 -> 22 Cursos de Offensive Security - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/refined?terms_info=domains%7Coffensive-security&resultsView=grid&view=course&license=1
