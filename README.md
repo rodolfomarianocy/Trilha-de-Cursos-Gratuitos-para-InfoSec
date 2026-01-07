@@ -92,6 +92,9 @@ https://www.eucapacito.com.br/cursos/android/
 -> Primeiros Passos para Desenvolvimento Web - DIO  
 https://web.dio.me/course/primeiros-passos-para-desenvolvimento-web/learning/9a77b82b-03d2-413f-a28b-18ac6c5fa725?back=/home
 
+-> CS50: Introduction to Computer Science - By obtaining a grade of at least 70% in each of the lists of exercises and laboratories in this course, as well as in the final project, you will be entitled to a free CS50 Certificate issued by Havard.  
+https://cs50.harvard.edu/x/
+
 -> CC50: Introduction to Computer Science - Fundação Estudar (Material traduzido do curso CS50 de Harvard University)  
 https://materiais.napratica.org.br/cc50
 
