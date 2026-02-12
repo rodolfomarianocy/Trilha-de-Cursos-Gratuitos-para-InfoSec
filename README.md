@@ -57,6 +57,8 @@
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/) | Solyd Offensive Security | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Fundamentos do Python 1](https://www.netacad.com/pt/courses/python-essentials-1?courseLang=pt-BR) | CISCO | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Linguagem de Programação Python - Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico) | Fundação Bradesco | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
+| [Crie um site simples usando HTML, CSS e JavaScript](https://www.ev.org.br/cursos/crie-um-site-simples-usando-html-css-e-javascript) | Fundação Bradesco | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
+| [Projetos de Sistemas de TI](https://www.ev.org.br/cursos/projetos-de-sistemas-de-ti) | Fundação Bradesco | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Aprendendo com Python](https://www.escolavirtual.gov.br/curso/629) | Escola Virtual Gov | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Intro to Python](https://app.cybrary.it/browse/course/python) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Java Development](https://www.eucapacito.com.br/cursos/java-development/) | FIAP | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
