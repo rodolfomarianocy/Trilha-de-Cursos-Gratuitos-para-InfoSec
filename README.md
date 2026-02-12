@@ -168,7 +168,8 @@
 
 | CURSO | FORNECEDOR | LINGUAGEM |
 | :--- | :--- | :--- |
-| [Governance, Risk, and Compliance Courses (Collection)](https://app.cybrary.it/browse/refined?terms_info=domains%7Cgovernance%2C-risk%2C-and-compliance&resultsView=grid&view=course&license=1) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
+| [Governance Basics](https://app.cybrary.it/browse/course/governance-basics) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
+| [Compliance Basics](https://app.cybrary.it/browse/course/compliance-basics) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Fundamentos da Lei Geral de Proteção de Dados](https://www.escolavirtual.gov.br/curso/603) | Escola Virtual Gov | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [API Security for PCI Compliance](https://www.apisecuniversity.com/courses/api-security-for-pci-compliance) | APIsec University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Atuação do Encarregado na LGPD: A Função de Orientar](https://www.escolavirtual.gov.br/curso/1041) | Escola Virtual Gov | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
