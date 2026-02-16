@@ -32,7 +32,7 @@
 ### Fundamentos de TI e Sistemas Operacionais
 
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Primeiros Passos em Tecnologia](https://www.ev.org.br/trilhas-de-conhecimento/primeiros-passos-em-tecnologia) | Fundação Bradesco | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Fundamentos de TI: Hardware e Software](https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software) | Fundação Bradesco | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Linux Fundamentos](https://www.eucapacito.com.br/curso-ec/linux-fundamentos/) | FIAP | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
@@ -41,7 +41,7 @@
 ### Redes
 
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Conceitos Básicos de Redes](https://www.netacad.com/pt/courses/networking-basics?courseLang=pt-BR) | CISCO | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Dispositivos de Rede e Configuração Inicial](https://www.netacad.com/pt/courses/networking-devices-and-initial-configuration?courseLang=pt-BR) | CISCO | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Introdução à IoT e à Transformação Digital](https://www.netacad.com/pt/courses/introduction-iot?courseLang=pt-BR) | CISCO | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
@@ -52,7 +52,7 @@
 ### Programação
 
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Learn to Program](https://www.eucapacito.com.br/cursos/learn-to-program/) | FIAP | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Python Básico](https://solyd.com.br/treinamentos/python-basico/) | Solyd Offensive Security | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Fundamentos do Python 1](https://www.netacad.com/pt/courses/python-essentials-1?courseLang=pt-BR) | CISCO | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
@@ -71,7 +71,7 @@
 
 ### Gerais
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Cloud Fundamentals, Administration and Solution Architect](https://www.eucapacito.com.br/cursos/cloud-fundamentals/) | FIAP | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Primeiros passos com AWS](https://web.dio.me/course/primeiros-passos-com-aws/learning/726666b9-d62e-4957-9cab-2ce3aca2e3fa/?back=/home) | DIO | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Introdução prática à computação em nuvem usando AWS](https://web.dio.me/course/Introducao-pratica-a-computacao-em-nuvem-usando-AWS/learning/e5310041-3a80-44d5-bd22-ebc4ff548c67/?back=/home) | DIO | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
@@ -81,7 +81,7 @@
 
 ### Introdução à Segurança da Informação
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Practical Security Fundamentals](https://academy.tcm-sec.com/p/practical-security-fundamentals) | TCM Security | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Segurança em Tecnologia da Informação](https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao) | Fundação Bradesco | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Segurança de Endpoint](https://www.netacad.com/pt/courses/endpoint-security?courseLang=pt-BR) | CISCO Networking Academy | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
@@ -99,7 +99,7 @@
 
 ### Programação + InfoSec
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [PowerShell for Security Professionals](https://app.cybrary.it/browse/course/powershell-for-security-professionals) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Python for Cybersecurity Professionals](https://app.cybrary.it/browse/course/python-for-cybersecurity-professionals) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 
@@ -109,7 +109,7 @@
 #### Pentest
 
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Introdução ao Hacking e Pentest 2.0](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/) | Solyd Offensive Security | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Introdução ao Pentest na Prática](https://desecsecurity.com/curso/introducao-pentest) | Desec Security | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 | [Getting Started in API Pen-Testing](https://www.apisecuniversity.com/courses/) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
@@ -123,14 +123,14 @@
 #### Mobile Malware
 
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Offensive Android Programming](https://www.mobilehackinglab.com/course/offensive-android-programming) | Mobile Hacking Lab | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Offensive iOS Programming](https://www.mobilehackinglab.com/course/offensive-ios-programming) | Mobile Hacking Lab | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 
 ### Blue Team
 
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Fundamentals of SOC (Security Operations Center)](https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses) | Palo Alto Networks | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Blue Team Junior Analyst Pathway Bundle](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle) | Security Blue Team | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Fundamentals of Cloud Security](https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses) | Palo Alto Networks | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
@@ -142,15 +142,16 @@
 ### Purple Team
 
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Foundations of Purple Teaming](https://www.academy.attackiq.com/courses/foundations-of-purple-teaming) | AttackIQ | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Foundations of Breach & Attack Simulation](https://www.academy.attackiq.com/courses/foundations-of-breach-attack-simulation) | AttackIQ | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Foundations of Operationalizing MITRE ATT&CK v13](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13) | AttackIQ | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 
 ### AppSec
-
+<p style="text-align=center;">
+  
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [OWASP SAMM Fundamentals](https://owaspsamm.thinkific.com/courses/samm) | OWASP (Thinkific) | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Fundamentals of Cybersecurity Architecture](https://app.cybrary.it/browse/course/fundamentals-of-cybersecurity-architecture) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [DevSecOps](https://app.cybrary.it/browse/course/devsecops) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
@@ -159,17 +160,23 @@
 | [OWASP API Security Top 10 and Beyond!](https://www.apisecuniversity.com/courses/owasp-api-security-top-10-and-beyond) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [API Documentation Best Practices](https://www.apisecuniversity.com/courses/api-documentation-best-practices) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Securing API Servers](https://www.apisecuniversity.com/courses/securing-api-servers) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
+| [API Security in the World of DevSecOps](https://www.apisecuniversity.com/courses/api-security-devsecops) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
+| [APIsec Power User](https://www.apisecuniversity.com/courses/apisec-power-user) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
+| [Start Left: API SecDevOps](https://www.apisecuniversity.com/courses/start-left-api-secdevops) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
+| [MCP Security Fundamentals](https://www.apisecuniversity.com/courses/mcp-security-fundamentals) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
+| [Building Security into AI](https://www.apisecuniversity.com/courses/building-security-into-ai) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [API Gateway Security Best Practices](https://www.apisecuniversity.com/courses/api-gateway-best-practices) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [API Authentication Best Practices](https://www.apisecuniversity.com/courses/api-authentication) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Securing LLM & NLP APIs](https://www.apisecuniversity.com/courses/securing-llm-nlp-apis) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [API Product Management Masterclass](https://www.apisecuniversity.com/courses/api-product-management) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [API Security For Connected Cars & Fleets](https://www.apisecuniversity.com/courses/) | APISEC University | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 
+</p>
 
 ### GRC (Governança, Riscos e Compliance)
 
 | CURSO | FORNECEDOR | LINGUAGEM |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | [Governance Basics](https://app.cybrary.it/browse/course/governance-basics) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Compliance Basics](https://app.cybrary.it/browse/course/compliance-basics) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Fundamentos da Lei Geral de Proteção de Dados](https://www.escolavirtual.gov.br/curso/603) | Escola Virtual Gov | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
