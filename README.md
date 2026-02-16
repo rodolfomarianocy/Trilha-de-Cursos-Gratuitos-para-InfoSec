@@ -4,9 +4,8 @@
 ---
 
 <p align="center">
-  <img height=500 src="https://github.com/user-attachments/assets/0e3d04a3-0b46-40fe-876c-7edd74fbdc10"/>
+  <img height=500  alt="trilhas" src="https://github.com/user-attachments/assets/6a2a63ea-ca00-4b3b-9ab6-4c676fe7aeee"/>
 </p>
-
 
 ---
 
