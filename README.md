@@ -94,7 +94,6 @@
 | [Entry-Level Cybersecurity Training](https://app.cybrary.it/browse/course/entry-level-cybersecurity-training) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Cybersecurity Basics](https://app.cybrary.it/browse/course/cybersecurity-fundamentals) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Introduction to Cybersecurity](https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses) | Palo Alto Networks | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
-| [Vídeos das palestras BHack 2025 e apresentações OWASP Brasil](https://members.coneds.com.br/convite/owasp-community-series/01jn7r15qbntw565mpkg9yef1z?utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=) | Coneds | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 
 
 ### Programação + InfoSec
@@ -103,6 +102,10 @@
 | [PowerShell for Security Professionals](https://app.cybrary.it/browse/course/powershell-for-security-professionals) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 | [Python for Cybersecurity Professionals](https://app.cybrary.it/browse/course/python-for-cybersecurity-professionals) | Cybrary | ![EN-US](https://img.shields.io/badge/-EN--US-blue) |
 
+### Outros
+| CURSO | FORNECEDOR | LINGUAGEM |
+| :--- | :---: | :---: |
+| [Vídeos das palestras BHack 2025 e apresentações OWASP Brasil](https://members.coneds.com.br/convite/owasp-community-series/01jn7r15qbntw565mpkg9yef1z?utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=) | Coneds | ![PT-BR](https://img.shields.io/badge/-PT--BR-green) |
 
 ## Áreas
 ### Red Team
